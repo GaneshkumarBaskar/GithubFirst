@@ -1,4 +1,4 @@
-package Binary;
+//package Binary;
 
 public class Count_Occurence_in_array 
 {
